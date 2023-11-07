@@ -1,6 +1,6 @@
 - Hi, I’m @Jojoaky
-- I’m interested in microcontrolles and microcomputers
-- I’m currently learning objectiv c
+- I like low level stuff
+- I'm starting to enjoy high level development
 
 
 <!---
